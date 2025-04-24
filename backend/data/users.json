@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1745516432346",
+    "name": "Jonas",
+    "email": "jonas@test.com",
+    "password": "$2b$10$IJakQfVMviVQt5cpb2mXTulGKmJcA23si1wqB7RWiTluJSCQvRbQ2"
+  },
+  {
+    "id": "1745518122536",
+    "name": "Marta",
+    "email": "marta.zaldokaite@gmail.com",
+    "password": "$2b$10$IN.bWba6ZHa8jjOMgDjwNO1CBidXR4QsQnXzcvwHqZBliZZJG4XqK"
+  }
+]
