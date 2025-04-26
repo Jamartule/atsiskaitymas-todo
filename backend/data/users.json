@@ -10,5 +10,11 @@
     "name": "Marta",
     "email": "marta.zaldokaite@gmail.com",
     "password": "$2b$10$IN.bWba6ZHa8jjOMgDjwNO1CBidXR4QsQnXzcvwHqZBliZZJG4XqK"
+  },
+  {
+    "id": "1745690656402",
+    "name": "ddd",
+    "email": "ddd@gmail.com",
+    "password": "$2b$10$OtYFzeSVd.LiJcggqpeh4e0BM.ETSvnkQUGg/jf3t987M49pZPMX6"
   }
 ]
